@@ -17,7 +17,7 @@ Microsoft Excel was used to clean and analyze the data, create PivotTables and v
 - Excel Slicers
 - Data Analysis
 
-# Project Workflow
+## Project Workflow
 1. Imported and explored the raw dataset.
 2. Removed duplicate records and standardized categorical values.
 3. Created age brackets using Excel IF statements.

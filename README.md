@@ -8,8 +8,6 @@ The objective is to identify trends and patterns associated with bike purchasing
 
 Microsoft Excel was used to clean and analyze the data, create PivotTables and visualizations, and develop an interactive dashboard.
 
-![Interactive Dashboard Overview](/images/dashboard.png)
-
 ## Tools & Skills
 - Microsoft Excel
 - Data Cleaning
@@ -34,11 +32,13 @@ Microsoft Excel was used to clean and analyze the data, create PivotTables and v
 - Customers commuting more than 10 miles had the lowest purchase rate.
 
 ## Dashboard Preview
-Project Files
-- data/ — Original dataset
-- excel/ — Excel workbook containing the analysis and interactive dashboard
-- presentation/ — Project presentation in PowerPoint and PDF formats
-- images/ — Dashboard screenshot
+![Interactive Dashboard Overview](/images/dashboard.png)
+
+## Project Files
+- `data/` — Original dataset
+- `excel/` — Excel workbook containing the analysis and interactive dashboard
+- `presentation/` — Project presentation in PowerPoint and PDF formats
+- `images/` — Dashboard screenshot
 
 ## Author
 
